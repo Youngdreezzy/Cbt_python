@@ -1,1 +1,1 @@
-A CBT question and answer with functions.
+A CBT question and answer with functions and without functions
